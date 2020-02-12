@@ -1,0 +1,51 @@
+Note:
+	util.py
+		class FixedRandom
+		/*Data sturctures useful for searchAgents*/
+		class Stack:
+			method push(), pop(), isEmpty()
+		class Queue:
+			method push(), pop(), isEmpty()
+		class PriorityQueue:
+			method push(), pop(), isEmpty(), update()
+		class PriorityQueueWithFunction(PriorityQueue):
+			method push()
+		class Counter(dict):
+			method incrementAll(keys, count), argMax(), sortedKeys(), totalCount(), normalize(), divideAll(divisor), copy()
+			method __mul__, __radd__, __add__, __sub__ 
+		def manhattanDistance(xy1, xy2)
+		def raiseNotDefined()
+		def normalize(vectorOrCounter)
+		def nSample(distribution, values, n)
+		def sample(distribution, values = None)
+		def sampleFromCounter()
+		def getProbability()
+		def flipCoin()
+		def chooseFromDistribution()
+		def nearestPoint()
+		def sign()
+		def arrayInvert()
+		def matrixAsList()
+		def lookup()
+		def pause()
+		class TimeoutFunctionException()
+		class TimeoutFunction
+		...
+
+	game.py 
+		class Agent:
+			method getAction()
+		class Configuration:
+			method getPosition(), getDirection(), isInteger(), __eq__, __hash__, __str__, generateSuccessor(vector)
+		class AgentState:
+			method __str__, __eq__, __hash__, copy(), getPosition(), getDirectoin()
+		class Directions
+		class Grid:
+			method __getitem__, __setitem__, __str__, __eq__, __hash__, copy(), deepCopy(), shallowCopy(), count(), asList(), packBits(), _cellIndexToPosition(index), _unpackBits(bits), _unpackInt(packed, size)
+		def reconstituteGrid(bitRep)
+
+	pacman.py[use the accessor methods to refer the object]
+		class GameState
+			explored
+			method getAndResetExplored(), getLegalActions(), generateSuccessor(), getLegalPacmanActions(), generatePacmanSuccessor(), getPacmanState(), getPacmanPosition(), getGhostStates(), getGhostState(agentIndex), getGhostPosition(agentIndex), getGhostPositions(), getNumAgents(), getScore(), getCapsules(), getNumFood(), getFood(), getWalls(), hasFood(), hasWall(), isLose(), isWin()
+		def readCommand()
