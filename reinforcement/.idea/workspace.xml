@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0156865-e917-43f1-84df-71151f69645a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YdBQWnUTFwJpwtO49GNg5YIPHu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.autograder">
+    <configuration name="autograder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="reinforcement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autograder.py" />
+      <option name="PARAMETERS" value="-p ApproximateQAgent -a extractor=SimpleExtractor -x 50 -n 60 -l mediumGrid" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qlearningAgents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="reinforcement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qlearningAgents.py" />
+      <option name="PARAMETERS" value="-p ApproximateQAgent -a extractor=SimpleExtractor -x 50 -n 60 -l mediumGrid" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="valueIterationAgents" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="reinforcement" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/valueIterationAgents.py" />
+      <option name="PARAMETERS" value="-q q5" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.valueIterationAgents" />
+      <item itemvalue="Python.autograder" />
+      <item itemvalue="Python.qlearningAgents" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.autograder" />
+        <item itemvalue="Python.qlearningAgents" />
+        <item itemvalue="Python.valueIterationAgents" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0156865-e917-43f1-84df-71151f69645a" name="Default Changelist" comment="" />
+      <created>1583262574265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583262574265</updated>
+      <workItem from="1583262585051" duration="42035000" />
+      <workItem from="1583460087386" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583441364521">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583441364521" />
+    <state width="1807" height="358" key="GridCell.Tab.0.bottom" timestamp="1583444199683">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="358" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583444199683" />
+    <state width="1807" height="358" key="GridCell.Tab.0.center" timestamp="1583444199682">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="358" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583444199682" />
+    <state width="1807" height="358" key="GridCell.Tab.0.left" timestamp="1583444199681">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="358" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583444199681" />
+    <state width="1807" height="358" key="GridCell.Tab.0.right" timestamp="1583444199683">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="358" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583444199683" />
+    <state width="1807" height="358" key="GridCell.Tab.1.bottom" timestamp="1583444199684">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="358" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583444199684" />
+    <state width="1807" height="358" key="GridCell.Tab.1.center" timestamp="1583444199683">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="358" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583444199683" />
+    <state width="1807" height="358" key="GridCell.Tab.1.left" timestamp="1583444199683">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="358" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583444199683" />
+    <state width="1807" height="358" key="GridCell.Tab.1.right" timestamp="1583444199684">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="358" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583444199684" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1583291333214">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583291333214" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583460087586">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583460087586" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/reinforcement$autograder.coverage" NAME="autograder Coverage Results" MODIFIED="1583441379243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/reinforcement$qlearningAgents.coverage" NAME="qlearningAgents Coverage Results" MODIFIED="1583441375290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/reinforcement$valueIterationAgents.coverage" NAME="valueIterationAgents Coverage Results" MODIFIED="1583298436793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
